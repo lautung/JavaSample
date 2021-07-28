@@ -1,0 +1,3 @@
+rootProject.name = "JavaSample"
+include ':JavaStreamAPI'
+include ':Lambda'
